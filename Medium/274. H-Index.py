@@ -1,3 +1,4 @@
+############### Video solution explained https://www.youtube.com/watch?v=4GMHrjfH9eE&t=1s
 class Solution(object):
     def hIndex(self, citations):
         """
